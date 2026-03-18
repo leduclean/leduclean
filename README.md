@@ -1,7 +1,7 @@
 <h1 align="left ">Hi there, I'm Léandre Le Duc <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-> Student engineer at [Ensimag](https://ensimag.grenoble-inp.fr/)
+> Software Engineering student at [Ensimag](https://ensimag.grenoble-inp.fr/)
 
 ## Languages & Technologies
 
