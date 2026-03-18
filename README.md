@@ -8,9 +8,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - **Languages**: ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
   ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Chisel](https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Haskell](https://img.shields.io/badge/Haskell-5D4F8D?style=for-the-badge&logo=haskell&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **CI/CD Tools**: ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
