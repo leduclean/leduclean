@@ -2,10 +2,21 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 > Software Engineering student at [Ensimag](https://ensimag.grenoble-inp.fr/)
+> working on low-level software and [RISC-V](https://riscv.org/)
+
+I like the layers most people take for granted: SIMD kernels, drivers, embedded runtimes. Most of my contributions live there, writing [RVV](https://github.com/riscv/riscv-v-spec) vector kernels for neural network libraries and bringing hardware up under IoT operating systems.
+
+## Open Source Contributor
+
+- **[XNNPACK](https://github.com/google/XNNPACK)** (Google)
+- **[oneDNN](https://github.com/uxlfoundation/oneDNN)** (UXL Foundation)
+- **[RIOT-OS](https://github.com/RIOT-OS/RIOT)**
+- **[Ariel-OS](https://github.com/ariel-os/ariel-os)**
 
 ## Languages & Technologies
 
 - **Languages**: ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
   ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
   ![Chisel](https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white)
